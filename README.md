@@ -12,7 +12,7 @@
 - *![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/v-t%E5%9B%BE.png)
 
 - *进一步地,我找到了精确解:v=90+10/e^t,可以检验之前的欧拉法的正确度.[对比代码](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework4.py)
--  *[这是对比图]()
+-  *![这是对比图](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework4.png)
  
 ##总结
 - **明显可见用欧拉法计算的曲线和之前分析的情况一样.速度极限为10m/s.在大概6s的时候就已经很逼近极限值了.**

@@ -9,7 +9,7 @@
  $$ v(t+detat)=v(t)+(a-b*v(t))*detat*
 -*选择参数a=10,b=1,和初值为v(t=0)=100*
 -*[代码在此](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/1.py)
--*![这是图片]()
+-*![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/v-t%E5%9B%BE.png)
 
 ##总结
 -**明显可见用欧拉法计算的曲线和之前分析的情况一样.速度极限为10m/s.在大概6s的时候就已经很逼近极限值了.**

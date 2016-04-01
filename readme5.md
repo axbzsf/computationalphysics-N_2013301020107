@@ -9,8 +9,9 @@
 - 可以由一阶微分方程描述$ dN/dt=aN-bN^2
 - 当初始人口数比较小时,选择参数a=10,b=3.N(O)=10.t=3 分别用欧拉法和方程精确解算得
    ![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework5.png)
+
 -当初始人口数比较大时,选择参数a=10,b=0.01,N(0)=1000,t=300,分别用欧拉法和方程精确解算得 
- ![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework5%27.png)
+   ![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework5%27.png)
 
 ##结论
 - 可以看出人口数比较小时,死亡率比较大,当时间增大时,人口数减小至一个定值.及a和b之比.即出生率与死亡率之比.

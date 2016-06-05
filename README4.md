@@ -8,8 +8,8 @@
 - *用欧拉法解决该题就是将微分方程化为差分方程,即
  $$ v(t+detat)=v(t)+(a-b*v(t))*detat*
 - *选择参数a=10,b=1,和初值为v(t=0)=100*
-- *[代码在此](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/1.py)
-- *![这是图片](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/v-t%E5%9B%BE.png)
+- *[代码在此](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework5.py)
+- *![这是图片](https://github.com/axbzsf/computationalphysics_N2013301020106/blob/master/homework5.png)
 
 - *进一步地,我找到了精确解:v=90+10/e^t,可以检验之前的欧拉法的正确度.[对比代码](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework4.py)
 -  *![这是对比图](https://github.com/computationalphysics2013301020107/computationalphysics-N_2013301020107/blob/master/homework4.png)
